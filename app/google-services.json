@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1023734126456",
+    "firebase_url": "https://fcmtest-610fb.firebaseio.com",
+    "project_id": "fcmtest-610fb",
+    "storage_bucket": "fcmtest-610fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023734126456:android:cb3ca1354fcb8a85",
+        "android_client_info": {
+          "package_name": "hse.com.fcmtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023734126456-09g4497dfood3ha5h4858j013e2sh31b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcYWSNuuH4lZa0m-_JL0HoOA7bAQKJqZo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
